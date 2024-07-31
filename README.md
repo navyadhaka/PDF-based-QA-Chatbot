@@ -5,7 +5,7 @@ The PDF-based QA Chatbot is an interactive application designed to provide accur
 - Advanced text embeddings using pre-trained models from HuggingFace.
 - Easy-to-use web interface built with Streamlit for user-friendly interactions.
 ## Demo
-![Demo](path/to/demo.gif)
+![Demo](image.png)
 
 ## Table of Contents
 - [Installation](#installation)
